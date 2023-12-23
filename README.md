@@ -1,6 +1,6 @@
 # Project Name: Knowledge-Cafe
 
-# Project Live URL: [Knowledge-Cafe](https://clear-shirt.surge.sh/){:target="_blank"}
+# Project Live URL: [Knowledge-Cafe](https://clear-shirt.surge.sh/)
 
 
 
